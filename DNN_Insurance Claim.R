@@ -1,3 +1,4 @@
+# This is code for insurance claims from Slava.
 
 library(lattice)
 library(ggplot2)
