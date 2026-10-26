@@ -1,4 +1,4 @@
-
+# This is code for insurance claims
 library(lattice)
 library(ggplot2)
 library(e1071) 
